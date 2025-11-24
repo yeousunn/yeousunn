@@ -33,10 +33,32 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
 ## 📊 GitHub Activity  
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeousunn&theme=radical)  
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeousunn&theme=radical)  
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeousunn&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yeousunn&theme=radical)
+<table>
+  <!-- Row 1: Profile Summary -->
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeousunn&theme=radical" alt="Profile Summary" />
+    </td>
+  </tr>
+
+  <!-- Row 2: Top Languages + Stats -->
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeousunn&theme=radical" alt="Top Languages" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeousunn&theme=radical" alt="Stats" />
+    </td>
+  </tr>
+
+  <!-- Row 3: Activity Graph -->
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeousunn&theme=radical" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
+
 
 
 ## Let’s Connect  
