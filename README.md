@@ -36,11 +36,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yeousunn&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeousunn&layout=compact&theme=radical)  
 
-
-## 📊 GitHub Activity  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yeousunn&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeousunn&layout=compact&theme=radical)  
-
 ## Let’s Connect  
 - Email: yeou.sunn.liu@gmail.com 
 - [LinkedIn](https://www.linkedin.com/in/yeou-sunn-liu/)
