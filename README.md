@@ -33,8 +33,9 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
 ## 📊 GitHub Activity  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yeousunn&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeousunn&layout=compact&theme=radical)  
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeousunn&theme=radical)  
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeousunn&theme=radical)  
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeousunn&theme=radical)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yeousunn&theme=radical)
 
 
