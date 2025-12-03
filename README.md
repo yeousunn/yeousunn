@@ -30,7 +30,7 @@
 <!-- Blockchain -->
 ### Blockchain  
 ![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Polkadot](https://img.shields.io/badge/Polkadot-3C3C3D?style=for-the-badge&logo=polkadot&logoColor=white)
 
 ## 📊 GitHub Activity  
 <table>
