@@ -1,12 +1,12 @@
-# Hi there 👋 I’m **Yeou Sunn Liu**
+# Hi, I'm Yeou Sunn Liu
 
-## 🔧 About Me   
-- 👨‍💻 I’m a passionate software engineer who thrives on solving complex problems and building real-world applications.  
-- 🎯 Areas of interest include blockchain, distributed systems, DevOps and full-stack development.  
-- 📚 Always learning: I enjoy exploring new frameworks, architectures and design patterns.  
-- 🌱 Currently working on: building and deploying resilient, scalable systems with strong security and automation.  
+## About Me
+- Software engineer focused on distributed systems and decentralized infrastructure, with Rust as my primary language across both backend and frontend.
+- My recent work spans consensus engines and real-time coordination systems (including robotics middleware), decentralized storage and CDN networks, and message-queue infrastructure.
+- Comfortable across the stack in Rust: core engines, C FFI bindings, HTTP services, and the tooling around them, with TypeScript and Node.js for APIs and SDKs.
+- Invested in the DevOps side of systems work too: CI pipelines, Kubernetes deployments, and memory-safety verification (Miri) for low-level Rust code.
 
-## 🧰 Tech Stack  
+## Tech Stack  
 ### Languages  
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -28,11 +28,11 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 <!-- Blockchain -->
-### Blockchain  
-![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
+### Distributed Systems & Web3  
 ![Polkadot](https://img.shields.io/badge/Polkadot-3C3C3D?style=for-the-badge&logo=polkadot&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
 
-## 📊 GitHub Activity  
+## GitHub Activity  
 <table>
   <!-- Row 1: Profile Summary -->
   <tr>
@@ -51,7 +51,14 @@
     </td>
   </tr>
 
-  <!-- Row 3: Activity Graph -->
+  <!-- Row 3: Streak -->
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com/?user=yeousunn&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+
+  <!-- Row 4: Activity Graph -->
   <tr>
     <td colspan="2" align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeousunn&theme=radical" alt="Activity Graph" />
@@ -61,11 +68,11 @@
 
 
 
-## Let’s Connect  
+## Let's Connect  
 - Email: yeou.sunn.liu@gmail.com 
 - [LinkedIn](https://www.linkedin.com/in/yeou-sunn-liu/)
-- I’m open to collaboration, mentoring and new opportunities — feel free to reach out!
+- Open to collaboration, mentoring and new opportunities. Feel free to reach out.
 
 ---
 
-Thanks for stopping by — happy to have you here! 😊  
+Thanks for stopping by.
