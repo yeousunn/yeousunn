@@ -60,13 +60,6 @@
       <img src="https://streak-stats.demolab.com/?user=yeousunn&theme=radical" alt="GitHub Streak" />
     </td>
   </tr>
-
-  <!-- Row 4: Activity Graph -->
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://ghchart.rshah.org/e4508c/yeousunn" alt="Activity Graph" />
-    </td>
-  </tr>
 </table>
 
 
